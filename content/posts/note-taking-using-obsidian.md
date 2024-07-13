@@ -30,7 +30,8 @@ over another note-taking app:
 * **Ease of editing**: It's really easy and simple to write notes in Obsidian.
   It formats the Markdown files the way I want.
 * **Local files**: Everything I write is stored as local files, not in the
-  cloud. This way, who owns the knowledgement is me, not some company.
+  cloud. This way, who owns the knowledgement (i.e., the files) is me, not some
+  company.
 * **Portability**: Obsidian also offers a mobile app. This way I cant write
   down what I need and see it later on my mobile phone. You can sync your
   computer with your phone using the paid service Obsidian offers. But you can
@@ -57,7 +58,7 @@ PARA is an acronym for:
 
 You can think of a _project_ as an order of tasks that need to be done to
 achieve a certain goal. A project also has a clearly end state and a period of
-some months. For example, planning a vacation could be a project, as well and
+some months. For example, planning a vacation could be a project, as well as
 creating a blog.
 
 In the PARA method, there would be a "Projects" folder and you would collect
