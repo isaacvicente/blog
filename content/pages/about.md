@@ -1,4 +1,8 @@
-# About
+---
+title: About
+description: 'What I like and do'
+author: Isaac Vicente
+---
 
 I'm a Computer Science student at [UFCG](https://www.computacao.ufcg.edu.br/)
 and a DevOps Engineer at Distributed System Laboratory (or LSD, in Portuguese),
