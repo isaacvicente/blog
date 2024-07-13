@@ -78,12 +78,12 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     weight = 30
 
 [Languages.en-gb.params]
-  sitename = "Awesome hugo blog"
+  sitename = "Isaac's Blog"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Minimal Hugo blog theme with light and dark mode support"
+  description = "Place I gather my thoughts"
   mainSections = ['posts']
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
@@ -103,9 +103,9 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 [Languages.en-gb.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+  intro = "Isaac's Blog"
+  name = "Isaac Vicente"
+  description = "Sysadmin | DevOps | Docker | Bash | Ansible"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
@@ -125,8 +125,8 @@ name = "github"
 url = "https://github.com/isaacvicente"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+name = "x"
+url = "https://x.com/isaac_vxnt"
 
 [[params.socialIcons]]
 name = "Rss"
