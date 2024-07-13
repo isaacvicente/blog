@@ -17,7 +17,7 @@ don't remember anymore. That's bad.
 But what I need to get started? Well, I really wanted the most frictionless way
 possible to create my notes and store it somewhere. I already tried
 [Notion](https://www.notion.so/) (as everyone else tried, I think) and saw some
-videos of productivity. Too way complicated. I needed something more simple.
+videos of productivity. Too way complicated. I needed something more simpler.
 And that's where I found [Obsidian](https://obsidian.md/).
 
 What I like about Obsidian? Well, there's some advantages of using Obsidian
