@@ -85,13 +85,13 @@ this folder you named "House" to your _Areas_ folder.
 
 ### Resources
 
-Resources are collections of information can be useful in the future, i.e., they
-are references. Well, to give you an example, I used to gather this kind of
-information in my browser bookmarks. I have various collections of folders in
-my bookmarks, like _Linux_, _Programming_, _Animes/Manga_, etc. In the folder
-of Linux there are another folders related to Linux. These are all link I found
-useful and/or interesting. Don't know, maybe I will use it in the future or
-it'll be useful for someone else asking me for help.
+Resources are collections of information can be useful in the future, i.e.,
+they are references. Well, to give you an example, I used to gather this kind
+of information in my browser bookmarks. I have various collections of folders
+in my bookmarks, like _Linux_, _Programming_, _Animes/Manga_, etc. In the
+folder of Linux there are another folders related to Linux. These are all link
+I found useful and/or interesting. Don't know, maybe I will use it in the
+future or it'll be useful for someone else asking me for help.
 
 ### Archive
 
@@ -104,7 +104,7 @@ _Archive_ folder.
 
 Sometimes you will make an unexpected link between a note you are writing
 right now with this vary note you've made 3 years ago, and this will be
-magical. It's also good to see how we envolved over time, what we used to
+magical. It's also good to see how we evolved over time, what we used to
 thought back then, and how we think _now_.
 
 Also, you can move a _project_ or even an _area_ to the Archive folder, as it's
@@ -112,11 +112,12 @@ something you don't really need anymore.
 
 ### Extra: Inbox
 
-Remember when I said that I wish something frictionless to write notes?
-Imagine you wrote a note. Where to put this note? Well, don't waste your time thinking this.
-If the folder it's not obvious, put it in the _Inbox_ folder.
+Remember when I said that I wish something frictionless to write notes? Imagine
+you wrote a note. Where to put this note? Well, don't waste your time thinking
+this. If the folder it's not obvious, put it in the _Inbox_ folder.
 
-The Inbox folder is the place you put a note you just made and know where it should be.
+The Inbox folder is the place you put a note you just made and know where it
+should be.
 
 Of course, later on, you have to take some time to think on where the notes on
 Inbox folder should be, so you don't accumulate a lot of notes in there. This
@@ -127,9 +128,10 @@ right away.
 
 ### Structure of folders
 
-In my Obsidian Vault (the _root_ of your folders and files), I organize the folders like so:
+In my Obsidian Vault (the _root_ of your folders and files), I organize the
+folders like so:
 
-```
+```text
 + Obsidian Vault
   |
   +-- 0 Inbox
@@ -139,37 +141,41 @@ In my Obsidian Vault (the _root_ of your folders and files), I organize the fold
   +-- 4 Archive
 ```
 
-As you can see, everything is under my `Obsidian Vault` and there are five folders bellow it.
-I've numbered my folders so when I `ls` on the folders, they are on the order I want.
+As you can see, everything is under my `Obsidian Vault` and there are five
+folders bellow it. I've numbered my folders so when I `ls` on the folders, they
+are on the order I want.
 
 ### Pitfalls and principles
 
-- **Make decicions quickly**: don't overthink, write a note and put it in the
+* **Make decisions quickly**: don't overthink, write a note and put it in the
   Inbox folder. If you know where the note should be, it shouldn't take more
   than 3 seconds to decide where it should be.
-- **Avoid moving files around all the time**: you will sometimes think: well,
+* **Avoid moving files around all the time**: you will sometimes think: well,
   this note would be better here and there, and this one in there, and so on.
-  It feels like productivy, but generally it's a waste of time. It's okay to do this rarely.
-- **Your note-taking should be efficient to you**: If you always overthink
-  where a certain note should be, maybe you have to stop and reflect on what you
-  want, and even maybe the PARA method is not for you. And that's ok. But give
-  it a few months.
+  It feels like productivity, but generally it's a waste of time. It's okay to do
+  this rarely.
+* **Your note-taking should be efficient to you**: If you always overthink
+  where a certain note should be, maybe you have to stop and reflect on what
+  you want, and even maybe the PARA method is not for you. And that's ok. But
+  give it a few months.
 
 ## Conclusion
 
-The PARA method really help us organizing our notes as it grows. Obsidian, on the other hand, is
-by far the best Markdown editor available. Markdown is a dead simple format to learn, so take notes should
-not be a problem. The important thing is: take a note. That's just it.
+The PARA method really help us organizing our notes as it grows. Obsidian, on
+the other hand, is by far the best Markdown editor available. Markdown is
+a dead simple format to learn, so take notes should not be a problem. The
+important thing is: take a note. That's just it.
 
 I'm myself a beginner on this: on both taking notes and doing it on Obsidian.
-I wrote this blog so I can reference and know what I should be doing.
-It's also a way of taking notes, because the posts themselves are written in Markdown.
+I wrote this blog so I can reference and know what I should be doing. It's also
+a way of taking notes, because the posts themselves are written in Markdown.
 
-> Note: I'm not a English-native speaker, so maybe there are some typos I've made.
+> Note: I'm not a English-native speaker, so maybe there are some typos I've
+made.
 
 ## Links
 
 I highly recommend you to check out these links:
 
-- [(video) Note-taking with the PARA method - Best for Beginners](https://youtu.be/oxUVn37-Igk?si=S0kjK8jslyoLRLJk)
-- [(docs) Obdisian Help](https://help.obsidian.md/Home)
+* [(video) Note-taking with the PARA method - Best for Beginners](https://youtu.be/oxUVn37-Igk?si=S0kjK8jslyoLRLJk)
+* [(docs) Obdisian Help](https://help.obsidian.md/Home)
